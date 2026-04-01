@@ -1,6 +1,6 @@
 {
-  "name": "NODAスコアアプリ",
-  "short_name": "NODAスコア",
+  "name": "ダブルス分析MP",
+  "short_name": "ダブルス分析MP",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
